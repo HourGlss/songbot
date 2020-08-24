@@ -67,7 +67,7 @@
 #
 ###########################################################
 
-import wa_ipc as ipc
+import winamp.wa_ipc as ipc
 
 import argparse
 import sys
